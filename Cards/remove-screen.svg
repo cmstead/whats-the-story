@@ -19,7 +19,10 @@
    enable-background="new 0 0 198 270"
    xml:space="preserve"
    sodipodi:docname="remove-screen.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/chris/Documents/projects/whats-the-story/Cards/exports/remove-screen.svg.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"><metadata
    id="metadata3325"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
@@ -36,9 +39,9 @@
    inkscape:window-height="713"
    id="namedview3321"
    showgrid="false"
-   inkscape:zoom="0.83504463"
-   inkscape:cx="-43.566321"
-   inkscape:cy="165.09436"
+   inkscape:zoom="2.092893"
+   inkscape:cx="-81.764117"
+   inkscape:cy="130.18966"
    inkscape:window-x="67"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
@@ -666,6 +669,9 @@
 
 
 
+
+
+
 <text
    id="text2892"
    transform="translate(23.1729,26.7686)"><tspan
@@ -679,6 +685,9 @@
      font-size="7"
      y="8"
      x="0">www.thegamecrafter.com</tspan></text>
+
+
+
 
 
 
@@ -765,6 +774,9 @@
      font-size="6"
      y="36"
      x="-43.341999">DELETE LAYER AFTER USE.</tspan></text>
+
+
+
 
 
 
@@ -1307,6 +1319,12 @@
    id="layer4"
    inkscape:label="Background Blocks"
    style="display:inline"><rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect24412"
+     width="198.82648"
+     height="271.02603"
+     x="0"
+     y="0.084721066" /><rect
      style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.20907235;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect9895"
      width="46.160648"
@@ -1321,29 +1339,16 @@
      y="18.16135" /><flowRoot
      xml:space="preserve"
      id="flowRoot11562"
-     style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:13.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
        id="flowRegion11564"
-       style="font-size:13.33333333px;"><rect
+       style="font-size:13.33333302px"><rect
          id="rect11566"
          width="123.18896"
          height="77.950081"
          x="22.967434"
          y="166.29855"
-         style="font-size:13.33333333px;" /></flowRegion><flowPara
-       id="flowPara11568" /></flowRoot><flowRoot
-     xml:space="preserve"
-     id="flowRoot11570"
-     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-       id="flowRegion11572"
-       style="line-height:1"><rect
-         id="rect11574"
-         width="124.58093"
-         height="77.950081"
-         x="22.271452"
-         y="166.29855"
-         style="line-height:1" /></flowRegion><flowPara
-       id="flowPara11576"
-       style="font-size:13.33333302px;line-height:1">Play when a screen must be removed from the application</flowPara></flowRoot></g><g
+         style="font-size:13.33333302px" /></flowRegion><flowPara
+       id="flowPara11568" /></flowRoot></g><g
    inkscape:groupmode="layer"
    id="layer2"
    inkscape:label="Primary Card Info"><text
@@ -1357,6 +1362,9 @@
      y="37.319084"
      id="tspan9921"
      style="font-size:16px;line-height:0">Remove Screen</tspan></text>
+
+
+
 
 
 
@@ -1374,6 +1382,9 @@
      x="181.79106"
      y="-158.18442"
      style="font-size:16px;fill:#ffffff;fill-opacity:1">Client</tspan></text>
+
+
+
 
 
 
@@ -1447,4 +1458,18 @@
        id="path4669"
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="103.22782"
-       inkscape:transform-center-y="20.87119" /></g></g></g></svg>
+       inkscape:transform-center-y="20.87119" /></g></g><flowRoot
+   transform="translate(0.0842124,-3.1186842)"
+   xml:space="preserve"
+   id="flowRoot11570"
+   style="font-style:normal;font-weight:normal;font-size:16px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+     id="flowRegion11572"
+     style="line-height:1"><rect
+       id="rect11574"
+       width="124.58093"
+       height="77.950081"
+       x="22.271452"
+       y="166.29855"
+       style="line-height:1" /></flowRegion><flowPara
+     id="flowPara11576"
+     style="font-size:13.33333302px;line-height:1">Play when a screen must be removed from the application</flowPara></flowRoot></g></svg>
