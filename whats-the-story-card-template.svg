@@ -36,9 +36,9 @@
    inkscape:window-height="713"
    id="namedview3321"
    showgrid="false"
-   inkscape:zoom="0.83504463"
-   inkscape:cx="12.157224"
-   inkscape:cy="57.004238"
+   inkscape:zoom="0.79775797"
+   inkscape:cx="-9.3358436"
+   inkscape:cy="78.359346"
    inkscape:window-x="67"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
@@ -666,6 +666,10 @@
 
 
 
+
+
+
+
 <text
    id="text2892"
    transform="translate(23.1729,26.7686)"><tspan
@@ -679,6 +683,10 @@
      font-size="7"
      y="8"
      x="0">www.thegamecrafter.com</tspan></text>
+
+
+
+
 
 
 
@@ -765,6 +773,10 @@
      font-size="6"
      y="36"
      x="-43.341999">DELETE LAYER AFTER USE.</tspan></text>
+
+
+
+
 
 
 
@@ -1343,14 +1355,18 @@
    inkscape:label="Primary Card Info"><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-   x="32.896095"
+   x="54.896095"
    y="37.319084"
    id="text9919"><tspan
      sodipodi:role="line"
-     x="32.896095"
+     x="54.896095"
      y="37.319084"
      id="tspan9921"
-     style="font-size:16px;line-height:0">Card Name Here</tspan></text>
+     style="font-size:16px;line-height:0">Card Name</tspan></text>
+
+
+
+
 
 
 
@@ -1371,16 +1387,20 @@
 
 
 
+
+
+
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot22501"
-   style="font-style:normal;font-weight:normal;font-size:16px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"><flowRegion
+   style="font-style:normal;font-weight:normal;font-size:16px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
      id="flowRegion22503"
-     style="line-height:1;"><rect
+     style="line-height:1"><rect
        id="rect22505"
        width="123.3467"
        height="77.840149"
        x="21.555735"
        y="165.81395"
-       style="line-height:1;" /></flowRegion><flowPara
-     id="flowPara22507">Flavor text goes here.</flowPara></flowRoot></g></svg>
+       style="line-height:1" /></flowRegion><flowPara
+     id="flowPara21950">Flavor text goes here.</flowPara></flowRoot></g></svg>

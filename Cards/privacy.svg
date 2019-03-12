@@ -18,14 +18,14 @@
    viewBox="0 0 198 270"
    enable-background="new 0 0 198 270"
    xml:space="preserve"
-   sodipodi:docname="remove-screen.svg"
+   sodipodi:docname="privacy.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   inkscape:export-filename="/home/chris/Documents/projects/whats-the-story/Cards/exports/remove-screen.svg.png"
+   inkscape:export-filename="/home/chris/Documents/projects/whats-the-story/Cards/exports/privacy.svg.png"
    inkscape:export-xdpi="392.203"
    inkscape:export-ydpi="392.203"><metadata
    id="metadata3325"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs3323" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -39,9 +39,9 @@
    inkscape:window-height="713"
    id="namedview3321"
    showgrid="false"
-   inkscape:zoom="2.4326816"
-   inkscape:cx="101.99773"
-   inkscape:cy="112.85296"
+   inkscape:zoom="1.9412341"
+   inkscape:cx="-4.9711387"
+   inkscape:cy="52.476282"
    inkscape:window-x="67"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
@@ -671,9 +671,6 @@
 
 
 
-
-
-
 <text
    id="text2892"
    transform="translate(23.1729,26.7686)"><tspan
@@ -687,9 +684,6 @@
      font-size="7"
      y="8"
      x="0">www.thegamecrafter.com</tspan></text>
-
-
-
 
 
 
@@ -778,9 +772,6 @@
      font-size="6"
      y="36"
      x="-43.341999">DELETE LAYER AFTER USE.</tspan></text>
-
-
-
 
 
 
@@ -1361,17 +1352,14 @@
    inkscape:label="Primary Card Info"><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-   x="40.896095"
+   x="68.896095"
    y="37.319084"
    id="text9919"><tspan
      sodipodi:role="line"
-     x="40.896095"
+     x="68.896095"
      y="37.319084"
      id="tspan9921"
-     style="font-size:16px;line-height:0">Remove Screen</tspan></text>
-
-
-
+     style="font-size:16px;line-height:0">Privacy</tspan></text>
 
 
 
@@ -1380,7 +1368,7 @@
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-   x="181.79106"
+   x="177.79106"
    y="-158.18442"
    id="text9944"
    transform="rotate(90)"
@@ -1388,12 +1376,9 @@
    inkscape:transform-center-y="-46.160648"><tspan
      sodipodi:role="line"
      id="tspan9942"
-     x="181.79106"
+     x="177.79106"
      y="-158.18442"
-     style="font-size:16px;fill:#ffffff;fill-opacity:1">Client</tspan></text>
-
-
-
+     style="font-size:16px;fill:#ffffff;fill-opacity:1">Privacy</tspan></text>
 
 
 
@@ -1411,74 +1396,44 @@
        x="21.555735"
        y="165.81395"
        style="line-height:1" /></flowRegion><flowPara
-     id="flowPara21950">Play when a screen must be removed from app</flowPara></flowRoot><g
-   id="g4730"
-   transform="matrix(1.5590445,0,0,1.5590445,-139.79685,-110.35508)"><g
-     style="stroke-width:2.3812499;stroke-miterlimit:4;stroke-dasharray:none"
-     transform="matrix(0.33333333,0,0,0.33333333,128.36071,92.217066)"
-     id="g4617-5"><rect
-       id="rect3713-3"
-       width="111.125"
-       height="80.130951"
-       x="34.017857"
-       y="85.333328"
-       style="fill:none;stroke:#000000;stroke-width:2.3812499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><g
-       style="stroke-width:2.3812499;stroke-miterlimit:4;stroke-dasharray:none"
-       id="g4604-5"
-       transform="translate(76.729209,-2.6458334)"><g
-         style="stroke-width:2.3812499;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="translate(-71.446955,1.1339293)"
-         id="g4593-6"><g
-           style="stroke-width:2.3812499;stroke-miterlimit:4;stroke-dasharray:none"
-           id="g4582-2"
-           transform="translate(0,-1.6253178)"><rect
-             y="106.52837"
-             x="78.392281"
-             height="5.8397117"
-             width="41.369473"
-             id="rect4520-3-9"
-             style="fill:none;stroke:#000000;stroke-width:2.3812499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><rect
-             y="117.65974"
-             x="78.392281"
-             height="5.8397117"
-             width="41.369473"
-             id="rect4520-3-6-1"
-             style="fill:none;stroke:#000000;stroke-width:2.3812499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><g
-             style="stroke-width:2.3812499;stroke-miterlimit:4;stroke-dasharray:none"
-             transform="translate(21.161003)"
-             id="g4573-2"><circle
-               style="fill:none;stroke:#000000;stroke-width:2.3812499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="path4554-70"
-               cx="60.665176"
-               cy="133.65759"
-               r="3.3488774" /><circle
-               style="fill:none;stroke:#000000;stroke-width:2.3812499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="path4554-7-9"
-               cx="78.014282"
-               cy="133.65759"
-               r="3.3488777" /></g></g><rect
-           style="fill:none;stroke:#000000;stroke-width:2.3812499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect4575-3"
-           width="18.898809"
-           height="43.089287"
-           x="48.75893"
-           y="104.98809" /></g><rect
-         y="139.7619"
-         x="26.307146"
-         height="9.4494047"
-         width="21.922617"
-         id="rect4584-6"
-         style="fill:none;stroke:#000000;stroke-width:2.3812499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></g></g><g
-     style="opacity:0.51999996"
-     id="g4692"><circle
-       style="fill:none;stroke:#646464;stroke-width:6.61458349;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4667"
-       cx="158.48544"
-       cy="134.2812"
-       r="25.401836" /><path
-       style="fill:none;stroke:#646464;stroke-width:7.0510807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 139.7,120.66151 39.48605,28.47294"
-       id="path4669"
-       inkscape:connector-curvature="0"
-       inkscape:transform-center-x="103.22782"
-       inkscape:transform-center-y="20.87119" /></g></g></g></svg>
+     id="flowPara22507">Play: privacy concerns must be addressed here</flowPara></flowRoot><g
+   transform="matrix(1.305377,0,0,1.305377,-72.759266,-222.86505)"
+   id="g5070"><rect
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62546408;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect5061"
+     width="96.721321"
+     height="25.92131"
+     x="85.661476"
+     y="236.11676" /><path
+     sodipodi:nodetypes="cscsc"
+     inkscape:connector-curvature="0"
+     id="path5034"
+     d="m 92.85246,249.80001 c 3.095081,-7.35083 11.99344,-8.89837 19.34426,-8.89837 7.35082,0 15.8623,2.32132 18.95738,8.89836 -2.7082,4.64263 -11.60656,8.12459 -19.34427,8.12459 -7.7377,0 -13.927862,-2.70819 -18.95737,-8.12458 z"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><ellipse
+     ry="8.1245899"
+     rx="9.6721315"
+     cy="249.55539"
+     cx="113.29499"
+     id="path5036"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><circle
+     r="3.8688524"
+     cy="249.02623"
+     cx="113.29499"
+     id="path5038"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 135.18602,249.80001 c 3.0951,-7.35083 11.99348,-8.89837 19.3443,-8.89837 7.35082,0 15.8623,2.32132 18.95738,8.89836 -2.7082,4.64263 -11.60656,8.12459 -19.34427,8.12459 -7.7377,0 -13.92788,-2.70819 -18.95741,-8.12458 z"
+     id="path5053"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cscsc" /><ellipse
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="ellipse5055"
+     cx="155.62793"
+     cy="249.55539"
+     rx="9.6721315"
+     ry="8.1245899" /><circle
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="circle5057"
+     cx="155.62793"
+     cy="249.02623"
+     r="3.8688524" /></g></g></svg>

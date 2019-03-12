@@ -21,11 +21,11 @@
    sodipodi:docname="new-screen-element.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="/home/chris/Documents/projects/whats-the-story/Cards/exports/new-screen-element.svg.png"
-   inkscape:export-xdpi="398.26999"
-   inkscape:export-ydpi="398.26999"><metadata
+   inkscape:export-xdpi="392.203"
+   inkscape:export-ydpi="392.203"><metadata
    id="metadata3325"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs3323" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -39,13 +39,13 @@
    inkscape:window-height="713"
    id="namedview3321"
    showgrid="false"
-   inkscape:zoom="2.3618629"
-   inkscape:cx="-11.836667"
-   inkscape:cy="114.93563"
+   inkscape:zoom="0.79775797"
+   inkscape:cx="-9.0971733"
+   inkscape:cy="78.378021"
    inkscape:window-x="67"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
-   inkscape:current-layer="layer4"
+   inkscape:current-layer="layer2"
    inkscape:snap-nodes="false"
    inkscape:snap-global="false" />
 <pattern
@@ -670,6 +670,10 @@
 
 
 
+
+
+
+
 <text
    id="text2892"
    transform="translate(23.1729,26.7686)"><tspan
@@ -683,6 +687,10 @@
      font-size="7"
      y="8"
      x="0">www.thegamecrafter.com</tspan></text>
+
+
+
+
 
 
 
@@ -770,6 +778,10 @@
      font-size="6"
      y="36"
      x="-43.341999">DELETE LAYER AFTER USE.</tspan></text>
+
+
+
+
 
 
 
@@ -1312,13 +1324,14 @@
    inkscape:groupmode="layer"
    id="layer4"
    inkscape:label="Background Blocks"
-   style="display:inline"><rect
+   style="display:inline"
+   sodipodi:insensitive="true"><rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect22475"
-     width="197.19603"
-     height="270.2316"
-     x="0.91294461"
-     y="-0.23160085" /><rect
+     id="rect21522"
+     width="201.18684"
+     height="274.23685"
+     x="0"
+     y="-0.64421648" /><rect
      style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.20907235;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect9895"
      width="46.160648"
@@ -1342,33 +1355,24 @@
          x="22.967434"
          y="166.29855"
          style="font-size:13.33333302px" /></flowRegion><flowPara
-       id="flowPara11568" /></flowRoot><flowRoot
-     xml:space="preserve"
-     id="flowRoot11570"
-     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-       id="flowRegion11572"
-       style="line-height:1"><rect
-         id="rect11574"
-         width="124.58093"
-         height="77.950081"
-         x="22.271452"
-         y="166.29855"
-         style="line-height:1" /></flowRegion><flowPara
-       style="font-size:13.33333302px;line-height:1"
-       id="flowPara12990">Play when a new element is needed in an application screen</flowPara></flowRoot></g><g
+       id="flowPara11568" /></flowRoot></g><g
    inkscape:groupmode="layer"
    id="layer2"
    inkscape:label="Primary Card Info"><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-   x="16.896095"
+   x="36.896095"
    y="37.319084"
    id="text9919"><tspan
      sodipodi:role="line"
-     x="16.896095"
+     x="36.896095"
      y="37.319084"
      id="tspan9921"
-     style="font-size:16px;line-height:0">New Screen Element</tspan></text>
+     style="font-size:16px;line-height:0">New Screen Elt</tspan></text>
+
+
+
+
 
 
 
@@ -1381,7 +1385,10 @@
    id="text9944"
    transform="rotate(90)"
    inkscape:transform-center-x="97.096536"
-   inkscape:transform-center-y="-46.160648"><tspan
+   inkscape:transform-center-y="-46.160648"
+   inkscape:export-filename="/home/chris/Documents/projects/whats-the-story/Cards/exports/new-screen-element.svg.png"
+   inkscape:export-xdpi="392.203"
+   inkscape:export-ydpi="392.203"><tspan
      sodipodi:role="line"
      id="tspan9942"
      x="181.79106"
@@ -1391,9 +1398,25 @@
 
 
 
-<g
+
+
+
+
+<flowRoot
+   xml:space="preserve"
+   id="flowRoot22501"
+   style="font-style:normal;font-weight:normal;font-size:16px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+     id="flowRegion22503"
+     style="line-height:1"><rect
+       id="rect22505"
+       width="123.3467"
+       height="77.840149"
+       x="21.555735"
+       y="165.81395"
+       style="line-height:1" /></flowRegion><flowPara
+     id="flowPara21950">Play when a new element is needed on a screen</flowPara></flowRoot><g
    id="g11821"
-   transform="matrix(1.3091247,0,0,1.3091247,42.371127,-133.42218)"><g
+   transform="matrix(1.2077433,0,0,1.2077433,47.583436,-114.15517)"><g
      id="g11689"
      transform="matrix(1.9611161,0,0,1.9611161,-160.03185,-376.25791)"><path
        inkscape:transform-center-y="-13.337807"
